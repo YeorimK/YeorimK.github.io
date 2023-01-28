@@ -2,5 +2,9 @@
 main:
   - title: "GitHub 방문하기"
     url: https://github.com/YeorimK
+  - title: "윤동주"
+    url: /yun-dong-ju/
+  - title: "Categories"
+    url: /categories/
   - title: "About"
     url: /about/
