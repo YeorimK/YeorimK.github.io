@@ -7,7 +7,9 @@ main:
   - title: "Python"
     url: /categories/python/
   - title: "Git"
-    url: /categories/git/
+    url: /categories/git/  
+  - title: "etc"
+    url: /categories/etc/
   - title: "Categories"
     url: /categories/
   - title: "About"
