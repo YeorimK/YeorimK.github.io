@@ -2,8 +2,10 @@
 main:
   - title: "GitHub 방문하기"
     url: https://github.com/YeorimK
-  - title: "윤동주"
-    url: /categories/윤동주/
+  - title: "R"
+    url: /categories/R/
+  - title: "Python"
+    url: /categories/python/
   - title: "Categories"
     url: /categories/
   - title: "About"
