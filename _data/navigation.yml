@@ -6,6 +6,8 @@ main:
     url: /categories/r/
   - title: "Python"
     url: /categories/python/
+  - title: "Git"
+    url: /categories/git/
   - title: "Categories"
     url: /categories/
   - title: "About"
