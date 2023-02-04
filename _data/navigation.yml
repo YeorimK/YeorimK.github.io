@@ -2,14 +2,6 @@
 main:
   - title: "GitHub 방문하기"
     url: https://github.com/YeorimK
-  - title: "R"
-    url: /categories/r/
-  - title: "Python"
-    url: /categories/python/
-  - title: "Git"
-    url: /categories/git/  
-  - title: "etc"
-    url: /categories/etc/
   - title: "Categories"
     url: /categories/
   - title: "About"

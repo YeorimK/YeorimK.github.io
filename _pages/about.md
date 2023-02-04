@@ -2,6 +2,7 @@
 title: "블로그 소개"
 permalink: /about/
 layout: single
+sidebar_main : true
 ---
 
 ## yeorimk의 TIL 블로그
