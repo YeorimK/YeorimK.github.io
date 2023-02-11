@@ -1,5 +1,5 @@
 ---
-title: ‘[Python]파이썬 문자열 자료형 정리 2’
+title: '[Python]파이썬 문자열 자료형 정리 2'
 excerpt: ‘파이썬의 문자열 데이터 타입을 정리한 두 번째 글입니다. ‘
 category:
   - Python
