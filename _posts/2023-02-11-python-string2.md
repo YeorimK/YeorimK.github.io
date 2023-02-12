@@ -35,7 +35,7 @@ last_modified_at: 2023-02-11
 
 # 2. 문자열 데이터 슬라이싱
 
-인덱싱은 한 단어를 선택한다면, 슬라이싱(Slicing)은 구간을 선택할 수 있다. 슬라이싱은  `data[시작번호:끝번호]`의 형태로 할 수 있습니다. 
+인덱싱은 한 단어를 선택한다면, 슬라이싱(Slicing)은 구간을 선택할 수 있습니다. 슬라이싱은  `data[시작번호:끝번호]`의 형태로 할 수 있습니다. 
 
 ```python
 >>> a = “Hello Python”
@@ -96,12 +96,13 @@ last_modified_at: 2023-02-11
 
 문자열 “20010331Rainy”를 연도(2001), 날짜(0331), 날씨(Rainy) 등 세 부분으로 나누려면 위와 같이 할 수 있습니다.
 
+
 <br>
 
 <span style=“font-size:18pt”>**Reference**</span> 
 
 
-————
+---
 
 
 https://wikidocs.net/13#_10
