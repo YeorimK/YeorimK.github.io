@@ -1,5 +1,5 @@
 ---
-title: '[Python] 초보자를 위한 파이썬 300제 1~10'
+title: '[Python 연습] 초보자를 위한 파이썬 300제 1~10'
 excerpt: '파이썬 연습을 위한 기록용 글입니다.'
 category:
   - Python 연습
